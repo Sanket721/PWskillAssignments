@@ -1,0 +1,23 @@
+1->
+   A computer is an electronic device that stores and processes data in a binary form e.g mobile phones, laptops, tablets ets.
+
+2->
+RAM stands for Randam Access Memory , it is a primary memory which  stores data temporarily it is volatile memory.
+
+3->
+Data is stored in HDD or SSD in computer.
+
+4->
+Keyboard
+
+5->
+Printers, monitors.
+
+6->
+Mouse.
+
+7->
+Binary Language.
+
+8->
+mouse, keyboard, scanner.

@@ -1,0 +1,28 @@
+1>>
+To check  if git is available in your system go to  command promt & type git version.
+
+2>> To initialize  new git repository type     
+git init
+
+3>>
+To add email to git type, git config --global user. email""
+To add username to git type git config --global user.name ""
+
+4. To add file to staging area type
+   git add file name 
+
+5. To remove File from staging area type git rm--cached  file name
+
+6 To make a commit type git commit -m  ""
+
+7. To send changes to remote repository use steps
+
+1. git branch -m main
+
+2 git remote add origin (paste the URL of repo)
+
+3. git push - u origin main
+
+8-Clone means to copy the entire project / file  as it is to another place 
+
+-pull to pull the repository file/code from main to local repository

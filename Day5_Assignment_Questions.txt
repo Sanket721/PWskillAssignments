@@ -1,0 +1,34 @@
+1>>
+Programming language is a language which is used to  communicate with the computer which is converted by  compiler into machine level  language and then to byte code 
+
+2>>
+ Computer doesn't understand human language to communicate with it programming language is used 
+
+3>>
+ Features of java
+
+1.Simple.
+
+2.Object oriented 
+3.portable
+4.platform independent 
+5.Robust
+
+4>>. Class-
+
+It is collection of objects that have similar traits, behaviour & attributes
+
+5>>. Object-
+
+It is an  entity with state & behaviour
+
+6>>
+ main() method in java It consist of
+public static void main (String[] args)
+
+Where public-  is for every one.
+
+main- name
+
+void  return type
+Static can be called/ invoked

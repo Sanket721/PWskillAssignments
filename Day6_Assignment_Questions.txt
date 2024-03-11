@@ -1,0 +1,34 @@
+1>>
+-Statically typed  programming languages where the memory of the variable is provided at the time of compilation eg. C, C++. Java
+
+
+- Dynamically typed programming languages where the memory of the variable is provided at the time of execution eg. Python, php, JavaScript .
+
+2>>
+ Variable is a name of a memory allocated reserved area. It may be though of as the name of memory location.
+
+3>>
+
+By using following syntax
+Type variable_name = Value
+
+4>>
+ Primitive data types are - short, int, long, boolean, double, Float, byte.
+
+5>>
+. An idetifier is a name given to a class interface, method or a package
+
+6>>
+. Operators in Java are 1.Assignment operator. 2.Arithmetic operator 3.logical operator 4.Relational operator, 5.Unary operator 
+6. Bitwise operator.
+7. Conditional operator
+8. Increment and decrement operator 
+
+7>>
+. Increament refers to the increase in valve by 1 decrement means decrease in valve by 1. a++ is post increment ++a is preincrement a--post decrement
+
+--a is predecrement eg, 
+int a=5 ;
+int b = a++;
+System.out.println(b); // 5
+System.out.println(a);// 6

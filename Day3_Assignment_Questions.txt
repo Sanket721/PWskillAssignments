@@ -1,0 +1,25 @@
+1>>
+Git. It is version control system created by Linus Trovalds in 2005 & has been maintained by Junio Hamano
+
+
+2>> Version control system are of two types centralized & distributed here, people can save their data on a local repository & push it to  main repository where others can pull it & make use of it
+
+3>> Git hub
+
+-It is a server which acts as a repository where people can push and  pull data
+
+-Tracking code changes.
+
+-Tracking  who made -changes collaborations
+
+5>>
+
+1 Centralized version control system 
+2. Distributed version control system
+
+6>>- Developers can
+collaborate & do the changes. e.g. (CV's, subversion. loss of date is out of picture
+
+7>>. It is  server/ storage space where the be push From local local repo & can be pulled by others to make changes.
+
+8>>. It has 3 stages working, which involved work then add it to storage and then to local repo after which it is sent to remote repo (Git server)
